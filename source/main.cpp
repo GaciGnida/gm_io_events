@@ -131,3 +131,5 @@ GMOD_MODULE_CLOSE()
 
 	return 0;
 }
+
+// test github-actions compile
